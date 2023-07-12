@@ -6,5 +6,5 @@ A webpage that can be used as a homepage for any browser.
 * Access your preferred search engine
 * Quick shortcuts for Downloads, Bookmarks and History
   
-### Visit the [site right now!](https://leetcodr.github.io/homepage/)
+### Visit the <a href="https://leetcodr.github.io/homepage/" target="_blank">site right now</a>
 (hosted on GitHub Pages)
