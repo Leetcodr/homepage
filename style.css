@@ -102,8 +102,9 @@ a:hover{
 
 .time{
     display: inline-block;
-    font-size: 70px;
+    font-size: 50px;
     text-align: center;
     color: white;
-    margin-top: 170px;
+    margin-top: 280px;
+    font-weight: 100;
 }
