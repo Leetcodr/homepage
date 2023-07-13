@@ -2,7 +2,7 @@ function updateTime() {
    var now = new Date();
    var hours = now.getHours();
    var ampm = ' AM';
-   if (hours >=12) {
+   if (hours >11) {
       hours = hours - 12;
       ampm = ' PM';
    }
